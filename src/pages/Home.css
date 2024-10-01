@@ -1,0 +1,7 @@
+.homes-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Creates a responsive grid */
+    gap: 20px; /* Spacing between items */
+    margin: 20px 0;
+  }
+  
